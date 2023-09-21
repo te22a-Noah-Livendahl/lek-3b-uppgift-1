@@ -3,5 +3,11 @@
     max-height: 80px;
 }
 .rubriklåda1{
+    background-color: aqua;
+    border: solid black;
+    width: 200px;
+}
 
+h1{
+    text-align: center;
 }
